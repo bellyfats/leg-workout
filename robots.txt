@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://bellyfats.github.io/leg-workout/sitemapx.xml
